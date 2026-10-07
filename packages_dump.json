@@ -1,0 +1,998 @@
+[
+  {
+    "id": 1,
+    "title": "Pokhara Lake & Hills 3-Day Tour",
+    "duration_days": 3,
+    "itineraries": [
+      {
+        "id": 631,
+        "day_number": 1,
+        "title": "Exploring Fewa Lake",
+        "description": "Today is dedicated to exploring Fewa Lake. Enjoy a peaceful boat ride.",
+        "latitude": "28.243900",
+        "longitude": "83.947200"
+      },
+      {
+        "id": 632,
+        "day_number": 2,
+        "title": "Exploring Davis Falls & Gupteshwor Cave",
+        "description": "Today is dedicated to exploring Davis Falls & Gupteshwor Cave. Witness the mysterious underground waterfall.",
+        "latitude": "28.192900",
+        "longitude": "83.950400"
+      },
+      {
+        "id": 633,
+        "day_number": 3,
+        "title": "Exploring International Mountain Museum",
+        "description": "Today is dedicated to exploring International Mountain Museum. Learn about the history of mountaineering.",
+        "latitude": "28.188700",
+        "longitude": "83.978200"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chitwan Jungle Safari 2-Day Package",
+    "duration_days": 2,
+    "itineraries": [
+      {
+        "id": 634,
+        "day_number": 1,
+        "title": "Exploring Deep Jungle (Core Area)",
+        "description": "Today is dedicated to exploring Deep Jungle (Core Area). Embark on a thrilling jeep safari.",
+        "latitude": "27.568300",
+        "longitude": "84.484200"
+      },
+      {
+        "id": 635,
+        "day_number": 2,
+        "title": "Exploring Bishazari Tal (20,000 Lakes)",
+        "description": "Today is dedicated to exploring Bishazari Tal (20,000 Lakes). Explore this wetland area.",
+        "latitude": "27.604500",
+        "longitude": "84.453200"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Everest Base Camp Trek - 12 Days",
+    "duration_days": 12,
+    "itineraries": [
+      {
+        "id": 636,
+        "day_number": 1,
+        "title": "Trek to Namche Bazaar (Part 1)",
+        "description": "Today's trail takes us towards Namche Bazaar. Hike up to Namche, the vibrant Sherpa capital.",
+        "latitude": "27.739700",
+        "longitude": "86.720800"
+      },
+      {
+        "id": 637,
+        "day_number": 2,
+        "title": "Trek to Namche Bazaar (Part 2)",
+        "description": "Today's trail takes us towards Namche Bazaar. Hike up to Namche, the vibrant Sherpa capital.",
+        "latitude": "27.782464",
+        "longitude": "86.716473"
+      },
+      {
+        "id": 638,
+        "day_number": 3,
+        "title": "Trek to Tengboche Monastery (Part 1)",
+        "description": "Today's trail takes us towards Tengboche Monastery. Visit the largest gompa in the Khumbu region.",
+        "latitude": "27.814864",
+        "longitude": "86.727745"
+      },
+      {
+        "id": 639,
+        "day_number": 4,
+        "title": "Trek to Tengboche Monastery (Part 2)",
+        "description": "Today's trail takes us towards Tengboche Monastery. Visit the largest gompa in the Khumbu region.",
+        "latitude": "27.833445",
+        "longitude": "86.759818"
+      },
+      {
+        "id": 640,
+        "day_number": 5,
+        "title": "Acclimatization and Rest Day",
+        "description": "Today is dedicated to acclimatization. We will take a short hike.",
+        "latitude": "27.837100",
+        "longitude": "86.765400"
+      },
+      {
+        "id": 641,
+        "day_number": 6,
+        "title": "Trek to Lobuche (Part 1)",
+        "description": "Today's trail takes us towards Lobuche. Navigate the rugged glacial moraines.",
+        "latitude": "27.902645",
+        "longitude": "86.827000"
+      },
+      {
+        "id": 642,
+        "day_number": 7,
+        "title": "Trek to Lobuche (Part 2)",
+        "description": "Today's trail takes us towards Lobuche. Navigate the rugged glacial moraines.",
+        "latitude": "27.938155",
+        "longitude": "86.814400"
+      },
+      {
+        "id": 643,
+        "day_number": 8,
+        "title": "Trek to Gorakshep",
+        "description": "Today's trail takes us towards Gorakshep. Arrive at the last outpost before the Base Camp.",
+        "latitude": "27.962982",
+        "longitude": "86.818891"
+      },
+      {
+        "id": 644,
+        "day_number": 9,
+        "title": "Trek to Everest Base Camp (Part 1)",
+        "description": "Today's trail takes us towards Everest Base Camp. Reach the legendary Base Camp!",
+        "latitude": "27.982600",
+        "longitude": "86.830782"
+      },
+      {
+        "id": 645,
+        "day_number": 10,
+        "title": "Trek to Everest Base Camp (Part 2)",
+        "description": "Today's trail takes us towards Everest Base Camp. Reach the legendary Base Camp!",
+        "latitude": "27.996600",
+        "longitude": "86.846055"
+      },
+      {
+        "id": 646,
+        "day_number": 11,
+        "title": "Trek to Kala Patthar (Part 1)",
+        "description": "Today's trail takes us towards Kala Patthar. Wake up before dawn for a challenging hike.",
+        "latitude": "27.999836",
+        "longitude": "86.843764"
+      },
+      {
+        "id": 647,
+        "day_number": 12,
+        "title": "Trek to Kala Patthar (Part 2)",
+        "description": "Today's trail takes us towards Kala Patthar. Wake up before dawn for a challenging hike.",
+        "latitude": "27.995000",
+        "longitude": "86.828300"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kathmandu Heritage Walk - 1 Day",
+    "duration_days": 1,
+    "itineraries": [
+      {
+        "id": 648,
+        "day_number": 1,
+        "title": "Full Day Kathmandu Durbar Square Tour",
+        "description": "Explore the highlights of Kathmandu Durbar Square, including Kathmandu Durbar Square, Swayambhunath, Pashupatinath Temple.",
+        "latitude": "27.704200",
+        "longitude": "85.306500"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Annapurna Base Camp Trek - 10 Days",
+    "duration_days": 10,
+    "itineraries": [
+      {
+        "id": 649,
+        "day_number": 1,
+        "title": "Trek to Ghorepani (Part 1)",
+        "description": "Today's trail takes us towards Ghorepani. Trek through dense rhododendron forests.",
+        "latitude": "28.351700",
+        "longitude": "83.743100"
+      },
+      {
+        "id": 650,
+        "day_number": 2,
+        "title": "Trek to Ghorepani (Part 2)",
+        "description": "Today's trail takes us towards Ghorepani. Trek through dense rhododendron forests.",
+        "latitude": "28.389267",
+        "longitude": "83.704367"
+      },
+      {
+        "id": 651,
+        "day_number": 3,
+        "title": "Trek to Poon Hill",
+        "description": "Today's trail takes us towards Poon Hill. An early morning hike to Poon Hill.",
+        "latitude": "28.400611",
+        "longitude": "83.691133"
+      },
+      {
+        "id": 652,
+        "day_number": 4,
+        "title": "Trek to Tadapani",
+        "description": "Today's trail takes us towards Tadapani. Descend through lush forests.",
+        "latitude": "28.399633",
+        "longitude": "83.715167"
+      },
+      {
+        "id": 653,
+        "day_number": 5,
+        "title": "Acclimatization and Rest Day",
+        "description": "Today is dedicated to acclimatization. We will take a short hike.",
+        "latitude": "28.397700",
+        "longitude": "83.767700"
+      },
+      {
+        "id": 654,
+        "day_number": 6,
+        "title": "Trek to Chhomrong",
+        "description": "Today's trail takes us towards Chhomrong. Cross suspension bridges over the Modi Khola.",
+        "latitude": "28.416878",
+        "longitude": "83.815767"
+      },
+      {
+        "id": 655,
+        "day_number": 7,
+        "title": "Trek to Dovan / Bamboo",
+        "description": "Today's trail takes us towards Dovan / Bamboo. Trek into the deeper gorge.",
+        "latitude": "28.447200",
+        "longitude": "83.834167"
+      },
+      {
+        "id": 656,
+        "day_number": 8,
+        "title": "Trek to Machhapuchhre Base Camp (MBC)",
+        "description": "Today's trail takes us towards Machhapuchhre Base Camp (MBC). Trek past bamboo forests.",
+        "latitude": "28.484300",
+        "longitude": "83.854878"
+      },
+      {
+        "id": 657,
+        "day_number": 9,
+        "title": "Trek to Annapurna Base Camp (ABC) (Part 1)",
+        "description": "Today's trail takes us towards Annapurna Base Camp (ABC). Arrive at the sanctuary's heart.",
+        "latitude": "28.517011",
+        "longitude": "83.874189"
+      },
+      {
+        "id": 658,
+        "day_number": 10,
+        "title": "Trek to Annapurna Base Camp (ABC) (Part 2)",
+        "description": "Today's trail takes us towards Annapurna Base Camp (ABC). Arrive at the sanctuary's heart.",
+        "latitude": "28.530000",
+        "longitude": "83.878000"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bardia Tiger Encounter - 3 Days",
+    "duration_days": 3,
+    "itineraries": [
+      {
+        "id": 659,
+        "day_number": 1,
+        "title": "Exploring Deep Jungle (Core Area)",
+        "description": "Today is dedicated to exploring Deep Jungle (Core Area). Embark on a thrilling jeep safari.",
+        "latitude": "27.568300",
+        "longitude": "84.484200"
+      },
+      {
+        "id": 660,
+        "day_number": 2,
+        "title": "Exploring Elephant Breeding Center",
+        "description": "Today is dedicated to exploring Elephant Breeding Center. Visit the center to see baby elephants.",
+        "latitude": "27.575000",
+        "longitude": "84.495000"
+      },
+      {
+        "id": 661,
+        "day_number": 3,
+        "title": "Exploring Bishazari Tal (20,000 Lakes)",
+        "description": "Today is dedicated to exploring Bishazari Tal (20,000 Lakes). Explore this wetland area.",
+        "latitude": "27.604500",
+        "longitude": "84.453200"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Buddhist Heritage Pilgrimage - 2 Days",
+    "duration_days": 2,
+    "itineraries": [
+      {
+        "id": 662,
+        "day_number": 1,
+        "title": "Exploring Monastic Zone (East & West)",
+        "description": "Today is dedicated to exploring Monastic Zone (East & West). Explore beautifully crafted monasteries.",
+        "latitude": "27.478600",
+        "longitude": "83.275900"
+      },
+      {
+        "id": 663,
+        "day_number": 2,
+        "title": "Exploring World Peace Pagoda",
+        "description": "Today is dedicated to exploring World Peace Pagoda. Take a peaceful stroll.",
+        "latitude": "27.498100",
+        "longitude": "83.276400"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Rara Wilderness Tour - 6 Days",
+    "duration_days": 6,
+    "itineraries": [
+      {
+        "id": 664,
+        "day_number": 1,
+        "title": "Exploring Rara Lake (Part 1)",
+        "description": "Today is dedicated to exploring Rara Lake. Reach the stunning, deep blue Rara Lake.",
+        "latitude": "29.274700",
+        "longitude": "82.183800"
+      },
+      {
+        "id": 665,
+        "day_number": 2,
+        "title": "Exploring Rara Lake (Part 2)",
+        "description": "Today is dedicated to exploring Rara Lake. Reach the stunning, deep blue Rara Lake.",
+        "latitude": "29.377260",
+        "longitude": "82.142480"
+      },
+      {
+        "id": 666,
+        "day_number": 3,
+        "title": "Exploring Rara Lake (Part 3)",
+        "description": "Today is dedicated to exploring Rara Lake. Reach the stunning, deep blue Rara Lake.",
+        "latitude": "29.479820",
+        "longitude": "82.101160"
+      },
+      {
+        "id": 667,
+        "day_number": 4,
+        "title": "Exploring Murma Top (Part 1)",
+        "description": "Today is dedicated to exploring Murma Top. Hike up to Murma Top for a breathtaking view.",
+        "latitude": "29.532880",
+        "longitude": "82.074400"
+      },
+      {
+        "id": 668,
+        "day_number": 5,
+        "title": "Exploring Murma Top (Part 2)",
+        "description": "Today is dedicated to exploring Murma Top. Hike up to Murma Top for a breathtaking view.",
+        "latitude": "29.536440",
+        "longitude": "82.062200"
+      },
+      {
+        "id": 669,
+        "day_number": 6,
+        "title": "Exploring Murma Top (Part 3)",
+        "description": "Today is dedicated to exploring Murma Top. Hike up to Murma Top for a breathtaking view.",
+        "latitude": "29.540000",
+        "longitude": "82.050000"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Bhotekoshi White Water Rafting & Bungee",
+    "duration_days": 1,
+    "itineraries": [
+      {
+        "id": 670,
+        "day_number": 1,
+        "title": "Full Day Bhotekoshi River Tour",
+        "description": "Explore the highlights of Bhotekoshi River, including Local Village Exploration, Scenic Viewpoint Hike, Cultural Heritage Site.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Upper Mustang Trek - 14 Days",
+    "duration_days": 14,
+    "itineraries": [
+      {
+        "id": 671,
+        "day_number": 1,
+        "title": "Trek to Chele (Part 1)",
+        "description": "Today's trail takes us towards Chele. Trek through dramatic arid landscapes.",
+        "latitude": "28.835300",
+        "longitude": "83.782500"
+      },
+      {
+        "id": 672,
+        "day_number": 2,
+        "title": "Trek to Chele (Part 2)",
+        "description": "Today's trail takes us towards Chele. Trek through dramatic arid landscapes.",
+        "latitude": "28.864031",
+        "longitude": "83.796269"
+      },
+      {
+        "id": 673,
+        "day_number": 3,
+        "title": "Trek to Chele (Part 3)",
+        "description": "Today's trail takes us towards Chele. Trek through dramatic arid landscapes.",
+        "latitude": "28.892762",
+        "longitude": "83.810038"
+      },
+      {
+        "id": 674,
+        "day_number": 4,
+        "title": "Trek to Syangboche (Part 1)",
+        "description": "Today's trail takes us towards Syangboche. Climb steep ridges, passing by chortens.",
+        "latitude": "28.918723",
+        "longitude": "83.821900"
+      },
+      {
+        "id": 675,
+        "day_number": 5,
+        "title": "Acclimatization and Rest Day",
+        "description": "Today is dedicated to acclimatization. We will take a short hike.",
+        "latitude": "28.911000",
+        "longitude": "83.819300"
+      },
+      {
+        "id": 676,
+        "day_number": 6,
+        "title": "Trek to Syangboche (Part 2)",
+        "description": "Today's trail takes us towards Syangboche. Climb steep ridges, passing by chortens.",
+        "latitude": "28.962338",
+        "longitude": "83.839900"
+      },
+      {
+        "id": 677,
+        "day_number": 7,
+        "title": "Trek to Ghami (Part 1)",
+        "description": "Today's trail takes us towards Ghami. Walk past the longest Mani wall in Mustang.",
+        "latitude": "28.997469",
+        "longitude": "83.851946"
+      },
+      {
+        "id": 678,
+        "day_number": 8,
+        "title": "Trek to Ghami (Part 2)",
+        "description": "Today's trail takes us towards Ghami. Walk past the longest Mani wall in Mustang.",
+        "latitude": "29.035931",
+        "longitude": "83.864754"
+      },
+      {
+        "id": 679,
+        "day_number": 9,
+        "title": "Trek to Tsarang (Part 1)",
+        "description": "Today's trail takes us towards Tsarang. Explore ancient monasteries.",
+        "latitude": "29.070115",
+        "longitude": "83.882477"
+      },
+      {
+        "id": 680,
+        "day_number": 10,
+        "title": "Trek to Tsarang (Part 2)",
+        "description": "Today's trail takes us towards Tsarang. Explore ancient monasteries.",
+        "latitude": "29.087192",
+        "longitude": "83.919862"
+      },
+      {
+        "id": 681,
+        "day_number": 11,
+        "title": "Trek to Tsarang (Part 3)",
+        "description": "Today's trail takes us towards Tsarang. Explore ancient monasteries.",
+        "latitude": "29.104269",
+        "longitude": "83.957246"
+      },
+      {
+        "id": 682,
+        "day_number": 12,
+        "title": "Trek to Lo Manthang (Part 1)",
+        "description": "Today's trail takes us towards Lo Manthang. Arrive at the mystical walled capital.",
+        "latitude": "29.127508",
+        "longitude": "83.968808"
+      },
+      {
+        "id": 683,
+        "day_number": 13,
+        "title": "Trek to Lo Manthang (Part 2)",
+        "description": "Today's trail takes us towards Lo Manthang. Arrive at the mystical walled capital.",
+        "latitude": "29.154854",
+        "longitude": "83.963154"
+      },
+      {
+        "id": 684,
+        "day_number": 14,
+        "title": "Trek to Lo Manthang (Part 3)",
+        "description": "Today's trail takes us towards Lo Manthang. Arrive at the mystical walled capital.",
+        "latitude": "29.182200",
+        "longitude": "83.957500"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Ghandruk Village Tour - 3 Days",
+    "duration_days": 3,
+    "itineraries": [
+      {
+        "id": 685,
+        "day_number": 1,
+        "title": "Exploring Birethanti",
+        "description": "Today is dedicated to exploring Birethanti. Register at the checkpost.",
+        "latitude": "28.297000",
+        "longitude": "83.774400"
+      },
+      {
+        "id": 686,
+        "day_number": 2,
+        "title": "Exploring Kimche",
+        "description": "Today is dedicated to exploring Kimche. Uphill climb towards Ghandruk.",
+        "latitude": "28.344800",
+        "longitude": "83.791400"
+      },
+      {
+        "id": 687,
+        "day_number": 3,
+        "title": "Exploring Gurung Museum",
+        "description": "Today is dedicated to exploring Gurung Museum. Learn about the local culture.",
+        "latitude": "28.376000",
+        "longitude": "83.805000"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Langtang Valley Trek - 8 Days",
+    "duration_days": 8,
+    "itineraries": [
+      {
+        "id": 688,
+        "day_number": 1,
+        "title": "Trek to Scenic Viewpoint Hike (Part 1)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 689,
+        "day_number": 2,
+        "title": "Trek to Scenic Viewpoint Hike (Part 2)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.720057",
+        "longitude": "85.326857"
+      },
+      {
+        "id": 690,
+        "day_number": 3,
+        "title": "Trek to Scenic Viewpoint Hike (Part 3)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.722914",
+        "longitude": "85.329714"
+      },
+      {
+        "id": 691,
+        "day_number": 4,
+        "title": "Trek to Scenic Viewpoint Hike (Part 4)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.725771",
+        "longitude": "85.332571"
+      },
+      {
+        "id": 692,
+        "day_number": 5,
+        "title": "Trek to Cultural Heritage Site (Part 1)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.724343",
+        "longitude": "85.331143"
+      },
+      {
+        "id": 693,
+        "day_number": 6,
+        "title": "Trek to Cultural Heritage Site (Part 2)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.718629",
+        "longitude": "85.325429"
+      },
+      {
+        "id": 694,
+        "day_number": 7,
+        "title": "Trek to Cultural Heritage Site (Part 3)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.712914",
+        "longitude": "85.319714"
+      },
+      {
+        "id": 695,
+        "day_number": 8,
+        "title": "Trek to Cultural Heritage Site (Part 4)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Poon Hill Sunrise Trek - 5 Days",
+    "duration_days": 5,
+    "itineraries": [
+      {
+        "id": 696,
+        "day_number": 1,
+        "title": "Trek to Ghorepani",
+        "description": "Today's trail takes us towards Ghorepani. Trek through dense rhododendron forests.",
+        "latitude": "28.351700",
+        "longitude": "83.743100"
+      },
+      {
+        "id": 697,
+        "day_number": 2,
+        "title": "Trek to Poon Hill",
+        "description": "Today's trail takes us towards Poon Hill. An early morning hike to Poon Hill.",
+        "latitude": "28.400825",
+        "longitude": "83.690375"
+      },
+      {
+        "id": 698,
+        "day_number": 3,
+        "title": "Trek to Chhomrong",
+        "description": "Today's trail takes us towards Chhomrong. Cross suspension bridges over the Modi Khola.",
+        "latitude": "28.408050",
+        "longitude": "83.794300"
+      },
+      {
+        "id": 699,
+        "day_number": 4,
+        "title": "Trek to Machhapuchhre Base Camp (MBC)",
+        "description": "Today's trail takes us towards Machhapuchhre Base Camp (MBC). Trek past bamboo forests.",
+        "latitude": "28.474150",
+        "longitude": "83.848500"
+      },
+      {
+        "id": 700,
+        "day_number": 5,
+        "title": "Trek to Annapurna Base Camp (ABC)",
+        "description": "Today's trail takes us towards Annapurna Base Camp (ABC). Arrive at the sanctuary's heart.",
+        "latitude": "28.530000",
+        "longitude": "83.878000"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Ilam Tea Garden Tour - 4 Days",
+    "duration_days": 4,
+    "itineraries": [
+      {
+        "id": 701,
+        "day_number": 1,
+        "title": "Exploring Scenic Viewpoint Hike (Part 1)",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 702,
+        "day_number": 2,
+        "title": "Exploring Scenic Viewpoint Hike (Part 2)",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.723867",
+        "longitude": "85.330667"
+      },
+      {
+        "id": 703,
+        "day_number": 3,
+        "title": "Exploring Cultural Heritage Site (Part 1)",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.720533",
+        "longitude": "85.327333"
+      },
+      {
+        "id": 704,
+        "day_number": 4,
+        "title": "Exploring Cultural Heritage Site (Part 2)",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Janakpur Cultural Tour - 2 Days",
+    "duration_days": 2,
+    "itineraries": [
+      {
+        "id": 705,
+        "day_number": 1,
+        "title": "Exploring Scenic Viewpoint Hike",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 706,
+        "day_number": 2,
+        "title": "Exploring Cultural Heritage Site",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Manaslu Circuit Trek - 16 Days",
+    "duration_days": 16,
+    "itineraries": [
+      {
+        "id": 707,
+        "day_number": 1,
+        "title": "Trek to Scenic Viewpoint Hike (Part 1)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 708,
+        "day_number": 2,
+        "title": "Trek to Scenic Viewpoint Hike (Part 2)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.718533",
+        "longitude": "85.325333"
+      },
+      {
+        "id": 709,
+        "day_number": 3,
+        "title": "Trek to Scenic Viewpoint Hike (Part 3)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.719867",
+        "longitude": "85.326667"
+      },
+      {
+        "id": 710,
+        "day_number": 4,
+        "title": "Trek to Scenic Viewpoint Hike (Part 4)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.721200",
+        "longitude": "85.328000"
+      },
+      {
+        "id": 711,
+        "day_number": 5,
+        "title": "Acclimatization and Rest Day",
+        "description": "Today is dedicated to acclimatization. We will take a short hike.",
+        "latitude": "27.718200",
+        "longitude": "85.325000"
+      },
+      {
+        "id": 712,
+        "day_number": 6,
+        "title": "Trek to Scenic Viewpoint Hike (Part 5)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.723867",
+        "longitude": "85.330667"
+      },
+      {
+        "id": 713,
+        "day_number": 7,
+        "title": "Trek to Scenic Viewpoint Hike (Part 6)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.725200",
+        "longitude": "85.332000"
+      },
+      {
+        "id": 714,
+        "day_number": 8,
+        "title": "Trek to Scenic Viewpoint Hike (Part 7)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.726533",
+        "longitude": "85.333333"
+      },
+      {
+        "id": 715,
+        "day_number": 9,
+        "title": "Trek to Cultural Heritage Site (Part 1)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.725867",
+        "longitude": "85.332667"
+      },
+      {
+        "id": 716,
+        "day_number": 10,
+        "title": "Trek to Cultural Heritage Site (Part 2)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.723200",
+        "longitude": "85.330000"
+      },
+      {
+        "id": 717,
+        "day_number": 11,
+        "title": "Trek to Cultural Heritage Site (Part 3)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.720533",
+        "longitude": "85.327333"
+      },
+      {
+        "id": 718,
+        "day_number": 12,
+        "title": "Trek to Cultural Heritage Site (Part 4)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.717867",
+        "longitude": "85.324667"
+      },
+      {
+        "id": 719,
+        "day_number": 13,
+        "title": "Trek to Cultural Heritage Site (Part 5)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.715200",
+        "longitude": "85.322000"
+      },
+      {
+        "id": 720,
+        "day_number": 14,
+        "title": "Trek to Cultural Heritage Site (Part 6)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.712533",
+        "longitude": "85.319333"
+      },
+      {
+        "id": 721,
+        "day_number": 15,
+        "title": "Trek to Cultural Heritage Site (Part 7)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.709867",
+        "longitude": "85.316667"
+      },
+      {
+        "id": 722,
+        "day_number": 16,
+        "title": "Trek to Cultural Heritage Site (Part 8)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Bandipur Heritage Stay - 2 Days",
+    "duration_days": 2,
+    "itineraries": [
+      {
+        "id": 723,
+        "day_number": 1,
+        "title": "Exploring Scenic Viewpoint Hike",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 724,
+        "day_number": 2,
+        "title": "Exploring Cultural Heritage Site",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Gosainkunda Lake Trek - 6 Days",
+    "duration_days": 6,
+    "itineraries": [
+      {
+        "id": 725,
+        "day_number": 1,
+        "title": "Trek to Scenic Viewpoint Hike (Part 1)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 726,
+        "day_number": 2,
+        "title": "Trek to Scenic Viewpoint Hike (Part 2)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.721200",
+        "longitude": "85.328000"
+      },
+      {
+        "id": 727,
+        "day_number": 3,
+        "title": "Trek to Scenic Viewpoint Hike (Part 3)",
+        "description": "Today's trail takes us towards Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.725200",
+        "longitude": "85.332000"
+      },
+      {
+        "id": 728,
+        "day_number": 4,
+        "title": "Trek to Cultural Heritage Site (Part 1)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.723200",
+        "longitude": "85.330000"
+      },
+      {
+        "id": 729,
+        "day_number": 5,
+        "title": "Trek to Cultural Heritage Site (Part 2)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.715200",
+        "longitude": "85.322000"
+      },
+      {
+        "id": 730,
+        "day_number": 6,
+        "title": "Trek to Cultural Heritage Site (Part 3)",
+        "description": "Today's trail takes us towards Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Muktinath Pilgrimage Tour - 5 Days",
+    "duration_days": 5,
+    "itineraries": [
+      {
+        "id": 731,
+        "day_number": 1,
+        "title": "Exploring Scenic Viewpoint Hike (Part 1)",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 732,
+        "day_number": 2,
+        "title": "Exploring Scenic Viewpoint Hike (Part 2)",
+        "description": "Today is dedicated to exploring Scenic Viewpoint Hike. Hike up to a prominent hill or ridge.",
+        "latitude": "27.722200",
+        "longitude": "85.329000"
+      },
+      {
+        "id": 733,
+        "day_number": 3,
+        "title": "Exploring Cultural Heritage Site (Part 1)",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.727200",
+        "longitude": "85.334000"
+      },
+      {
+        "id": 734,
+        "day_number": 4,
+        "title": "Exploring Cultural Heritage Site (Part 2)",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.717200",
+        "longitude": "85.324000"
+      },
+      {
+        "id": 735,
+        "day_number": 5,
+        "title": "Exploring Cultural Heritage Site (Part 3)",
+        "description": "Today is dedicated to exploring Cultural Heritage Site. Visit an ancient temple, monastery, or historical ruin.",
+        "latitude": "27.707200",
+        "longitude": "85.314000"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "butwal view - 2 days",
+    "duration_days": 2,
+    "itineraries": [
+      {
+        "id": 738,
+        "day_number": 1,
+        "title": "fulbari exploration",
+        "description": "fulbari is a beautiful park enrich with multiple flowers and zoo with variety of animals",
+        "latitude": "27.706002",
+        "longitude": "83.456186"
+      },
+      {
+        "id": 739,
+        "day_number": 2,
+        "title": "nuwakot hiking",
+        "description": "nuwakot hike is a popular hike o butwal city where you can enjoy a scenic view of whole butwal city",
+        "latitude": "27.730844",
+        "longitude": "83.452966"
+      }
+    ]
+  }
+]
